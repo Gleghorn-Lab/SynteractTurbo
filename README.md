@@ -8,8 +8,8 @@ This is a placeholder repository for the SynteractTurbo project. Currently, it c
 ### Get the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Gleghorn-Lab/SynteractTurbo.git
+cd SynteractTurbo
 pip install -r requirements.txt
 ```
 
